@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dorcas
+- 👋 Hi, I’m Dorcas
 - 👀 I’m a Data Analysis
 - 🌱 With expertise in Excel, Power BI, Python......
 - 💞️I like creating well define Story telling with my analysis.
